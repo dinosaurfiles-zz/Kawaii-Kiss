@@ -79,5 +79,6 @@ if __name__ == "__main__":
     url = "http://kissanime.com/Anime/Sakura-Trick/Episode-001?id=62116"
     # getlinks(url)
     getvideosingle(url)
+    # Referer: http://kissanime.com/Login?username=animekiss_01%40sharklasers.com&password=trial123&redirect=
     # getfilename(url)
     # getHTMLsource("http://kissanime.com/Anime/Sakura-Trick")
